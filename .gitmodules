@@ -1,0 +1,9 @@
+[submodule "QDBDiscovery"]
+	path = QDBDiscovery
+	url = https://github.com/nilkanthakshay17/QDBDiscovery
+[submodule "QDBUsers"]
+	path = QDBUsers
+	url = https://github.com/nilkanthakshay17/QDBUsers
+[submodule "QDBPostsAndComments"]
+	path = QDBPostsAndComments
+	url = https://github.com/nilkanthakshay17/QDBPostsAndComments
